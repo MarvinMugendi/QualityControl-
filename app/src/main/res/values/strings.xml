@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QualityControlTemplate</string>
+    <string name="spirit_level">Spirit Level</string>
+    <string name="indoor_otu">Indoor OTU</string>
+    <string name="ping">Ping</string>
+    <string name="speed">Speed</string>
+    <string name="light_beam">Light Beam</string>
+    <string name="capture_qr_code">Capture Qr Code</string>
+    <string name="quality_control">Quality Control</string>
+    <string name="client_name">Client</string>
+    <string name="mac_address">Mac Address</string>
+    <string name="client">Client</string>
+    <string name="upload">Upload</string>
+    <string name="upload_id_prof_pic">Upload Picture</string>
+</resources>
